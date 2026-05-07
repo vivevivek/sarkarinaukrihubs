@@ -12,11 +12,5 @@
         { "key": "Referrer-Policy", "value": "strict-origin-when-cross-origin" }
       ]
     }
-  ],
-  "crons": [
-    {
-      "path": "/api/jobs",
-      "schedule": "0 */6 * * *"
-    }
   ]
 }
