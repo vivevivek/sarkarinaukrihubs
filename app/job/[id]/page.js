@@ -1,7 +1,7 @@
 import Header from '../../components/Header';
 import Footer from '../../components/Footer';
 import { AdBanner } from '../../components/AdBanner';
-import { scrapeJobDetail } from '../../../lib/scrapers/job-detail';
+
 
 export const revalidate = 14400; // 4 hours
 
